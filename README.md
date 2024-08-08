@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ADKA2006
+- 👋 Hi, I’m Advaith Krishna aka ADKA2006
 - 👀 I’m interested in coding and working with data.
 - 🌱 I’m currently learning CSE(AI) at Amrita Vishwa Viyapeetham
 - 📫 How to reach me mail-id:advaithkrishna06@gmail.com
