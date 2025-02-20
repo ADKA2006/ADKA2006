@@ -1,9 +1,19 @@
+<p align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+</p>
+
 - 👋 Hi, I’m Advaith Krishna aka ADKA2006
 - 👀 I’m interested in coding and working with data.
 - 🌱 I’m currently learning CSE(AI) at Amrita Vishwa Viyapeetham
 - 📫 How to reach me mail-id:advaithkrishna06@gmail.com
 - 😄 Pronouns: He/Him
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<div>
+  
 ## Stats
 <a href="https://github.com/ADKA2006" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ADKA2006?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
 
@@ -32,7 +42,11 @@
 [<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />](https://mariadb.org/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com)
 [<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com)
+</div>
 
+<p align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 <!---
 ADKA2006/ADKA2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
