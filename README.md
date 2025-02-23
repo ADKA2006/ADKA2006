@@ -1,7 +1,13 @@
-<p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </p>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+all;I+am++Advaith+Krishna;Aspiring+AI+Engineer+from+India" alt="Typing SVG" />
+  </a>
+</div>
+
+## About Me
 - 👋 Hi, I’m Advaith Krishna aka ADKA2006
 - 👀 I’m interested in coding and working with data.
 - 🌱 I’m currently learning CSE(AI) at Amrita Vishwa Viyapeetham
@@ -9,7 +15,7 @@
 - 😄 Pronouns: He/Him
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
 
 <div>
@@ -44,9 +50,52 @@
 [<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com)
 </div>
 
+## For people who speaks Code
+
+```python
+# Importing Libraries
+from life import Coding, AI, DataScience, ProblemSolving
+
+# Defining Myself
+class AdvaithKrishna:
+    def __init__(self):
+        self.name = "Advaith Krishna"
+        self.alias = "ADKA2006"
+        self.role = "Aspiring AI Engineer & Data Enthusiast"
+        self.education = "CSE (AI) @ Amrita Vishwa Vidyapeetham"
+        self.interests = [Coding, AI, DataScience, ProblemSolving]
+        self.email = "advaithkrishna06@gmail.com"
+    
+    def say_hello(self):
+        print(f"Hey there! I'm {self.name}, passionate about AI and coding! 🚀")
+
+    def current_focus(self):
+        return [
+            "Exploring AI & Machine Learning 🤖",
+            "Building cool projects with Python 🐍",
+            "Mastering Data Science & Analytics 📊"
+        ]
+
+    def tech_stack(self):
+        return {
+            "Languages": ["Python", "Java", "C++","HTML","CSS3"],
+            "Frameworks": ["TensorFlow", "PyTorch","OpenCV"],
+            "OS": ["Linux", "Windows"],
+            "Tools": ["Git", "Docker", "VS Code"]
+        }
+
+# Execution
+me = AdvaithKrishna()
+me.say_hello()
+print("🔍 Current Focus:", me.current_focus())
+print("🛠️ Tech Stack:", me.tech_stack())
+```
+
 <p align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&width=1500&lines=%E2%9C%A8%F0%9F%98%8A+Fun+Fact%3A+%22I+debug+my+life+like+I+debug+my+code+%E2%80%93+one+breakpoint+at+a+time!+%F0%9F%9B%A0%EF%B8%8F%22%F0%9F%98%8A%E2%9C%A8" alt="Typing SVG" /></a>
 
 <!---
 ADKA2006/ADKA2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
