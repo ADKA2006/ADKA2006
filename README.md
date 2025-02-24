@@ -48,7 +48,16 @@
 [<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />](https://mariadb.org/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com)
 [<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+## AI Frameworks
+[<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"/>](https://huggingface.co/ADKA2006)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/)
+[<img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white"/>](https://ollama.com/)
+
+## Databases and Cloud
+[<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/)
 
 ## 💻 For people who speak Code 💻
 
