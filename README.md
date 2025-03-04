@@ -85,7 +85,7 @@ class AdvaithKrishna:
     def current_focus(self):
         return [
             "Exploring AI & Machine Learning 🤖",
-            "Building cool projects with Python 🐍",
+            "Building cool projects with Python 💻",
             "Mastering Data Science & Analytics 📊"
         ]
 
