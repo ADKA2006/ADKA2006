@@ -2,6 +2,10 @@
 </p>
 
 <div align="center">
+  <p> .--.-. .- -.. ...- .- .. - .... / -.- .-. .. ... .... -. .- / .- -.- .- / .- -.. -.- .- ..--- ----- ----- -.... </p>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+all;I+am++Advaith+Krishna;Aspiring+AI+Engineer+from+India" alt="Typing SVG" />
   </a>
