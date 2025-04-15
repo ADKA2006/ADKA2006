@@ -56,7 +56,7 @@
 </div>
 
 ## AI Frameworks
-[<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"/>](https://huggingface.co/ADKA2006)
+[<img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"/>](https://huggingface.co/ADKA2006)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/)
 [<img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white"/>](https://ollama.com/)
 
