@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning CSE(AI) at Amrita Vishwa Viyapeetham
 - 📫 How to reach me mail-id:advaithkrishna06@gmail.com
 - 😄 Pronouns: He/Him
-
+<br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
@@ -104,6 +104,16 @@ print("🔍 Current Focus:", me.current_focus())
 print("🛠️ Tech Stack:", me.tech_stack())
 ```
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&width=1500&lines=%E2%9C%A8%F0%9F%98%8A+Fun+Fact%3A+%22I+debug+my+life+like+I+debug+my+code+%E2%80%93+one+breakpoint+at+a+time!+%F0%9F%9B%A0%EF%B8%8F%22%F0%9F%98%8A%E2%9C%A8" alt="Typing SVG" /></a>
+
+## Connect 
+<div>
+    <a href="mailto:advaithkrishna06@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.github.com/ADKA2006">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+</div>
 
 <p align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
