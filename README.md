@@ -33,7 +33,7 @@
 [<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />](https://www.java.com/en/download/help/whatis_java.html)
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />](https://www.javascript.com)
-[<img src="https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529" />](https://html.com/)
+[<img src="https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white" />](https://html.com/)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://css3.com/)
 
 ## Frameworks
@@ -52,7 +52,8 @@
 [<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />](https://mariadb.org/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com)
 [<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+[<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com)
+
 </div>
 
 ## AI Frameworks
