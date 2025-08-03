@@ -12,11 +12,11 @@
 </div>
 
 ## About Me
-- 👋 Hi, I’m Advaith Krishna aka ADKA2006
-- 👀 I’m interested in coding and working with data.
-- 🌱 I’m currently learning CSE(AI) at Amrita Vishwa Viyapeetham
-- 📫 How to reach me mail-id:advaithkrishna06@gmail.com
-- 😄 Pronouns: He/Him
+- Hi, I’m Advaith Krishna aka ADKA2006
+- I’m interested in coding and working with data.
+- I’m currently learning CSE(AI) at Amrita Vishwa Viyapeetham
+- How to reach me mail-id:advaithkrishna06@gmail.com
+- Pronouns: He/Him
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
@@ -81,13 +81,13 @@ class AdvaithKrishna:
         self.email = "advaithkrishna06@gmail.com"
     
     def say_hello(self):
-        print(f"Hey there! I'm {self.name}, passionate about AI and coding! 🚀")
+        print(f"Hey there! I'm {self.name}, passionate about AI and coding!")
 
     def current_focus(self):
         return [
-            "Exploring AI & Machine Learning 🤖",
-            "Building cool projects with Python 💻",
-            "Mastering Data Science & Analytics 📊"
+            "Exploring AI & Machine Learning",
+            "Building cool projects with Python",
+            "Mastering Data Science & Analytics"
         ]
 
     def tech_stack(self):
@@ -101,8 +101,8 @@ class AdvaithKrishna:
 # Execution
 me = AdvaithKrishna()
 me.say_hello()
-print("🔍 Current Focus:", me.current_focus())
-print("🛠️ Tech Stack:", me.tech_stack())
+print("Current Focus:", me.current_focus())
+print("Tech Stack:", me.tech_stack())
 ```
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&width=1500&lines=%E2%9C%A8%F0%9F%98%8A+Fun+Fact%3A+%22I+debug+my+life+like+I+debug+my+code+%E2%80%93+one+breakpoint+at+a+time!+%F0%9F%9B%A0%EF%B8%8F%22%F0%9F%98%8A%E2%9C%A8" alt="Typing SVG" /></a>
 
