@@ -48,8 +48,6 @@
 [<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />](https://www.raspberrypi.com)
 
 ## Software/Systems
-[<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com)
-[<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />](https://mariadb.org/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com)
 [<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com)
@@ -62,6 +60,8 @@
 [<img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white"/>](https://ollama.com/)
 
 ## Databases and Cloud
+[<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com)
+[<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />](https://mariadb.org/)
 [<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/)
 
 ## 💻 For people who speak Code 💻
