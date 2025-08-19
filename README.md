@@ -112,9 +112,8 @@ print("Tech Stack:", me.tech_stack())
 
 ## Stats
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adka2006&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" style="height:200px;width: 32%;"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=adka2006&theme=dark&hide_border=true" style="height: 200px;width: 32%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adka2006&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" style="height: 200px;width: 32%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=adka2006&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" style="height:200px;"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=adka2006&theme=dark&hide_border=true" style="height: 200px;"/>
 </div>
 
 
