@@ -108,12 +108,12 @@ print("Tech Stack:", me.tech_stack())
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&width=1500&lines=%E2%9C%A8%F0%9F%98%8A+Fun+Fact%3A+%22I+debug+my+life+like+I+debug+my+code+%E2%80%93+one+breakpoint+at+a+time!+%F0%9F%9B%A0%EF%B8%8F%22%F0%9F%98%8A%E2%9C%A8" alt="Typing SVG" /></a>
 
 ## Programming Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adka2006&layout=compact)
+![Top Languages](https://github-readme-stats-adka2006.vercel.app/api/top-langs/?username=adka2006&layout=compact)
 
 ## Stats
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adka2006&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" style="height:200px;"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=adka2006&theme=dark&hide_border=true" style="height: 200px;"/>
+    <img src="https://github-readme-stats-adka2006.vercel.app/api?username=adka2006&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" style="height:200px;"/>
+    <img src="https://github-readme-streak-stats-adka2006.vercel.app/?user=adka2006&theme=dark&hide_border=true" style="height: 200px;"/>
 </div>
 
 
