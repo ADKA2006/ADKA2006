@@ -18,14 +18,18 @@
 - How to reach me mail-id:advaithkrishna06@gmail.com
 - Pronouns: He/Him
 <br>
+  :))))))
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
+  <!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>-->
+
+  <img src="https://imgs.xkcd.com/comics/cryptography.png">
 </div>
 
 <div>
   
 ## Stats
-<a href="https://github.com/ADKA2006" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ADKA2006?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
+<<a href="https://github.com/ADKA2006" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ADKA2006?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
+
 
 ## Languages
 [<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />](https://www.python.org)
