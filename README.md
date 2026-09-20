@@ -104,7 +104,7 @@ me.say_hello()
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&width=800&lines=%E2%9C%A8+Fun+Fact%3A+%22I+debug+my+life+like+I+debug+my+code+%E2%80%93+one+breakpoint+at+a+time!+%F0%9F%9B%A0%EF%B8%8F%22+%E2%9C%A8" alt="Fun Fact Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&width=1250&lines=%E2%9C%A8+Fun+Fact%3A+%22I+debug+my+life+like+I+debug+my+code+%E2%80%93+one+breakpoint+at+a+time!+%F0%9F%9B%A0%EF%B8%8F%22+%E2%9C%A8" alt="Fun Fact Typing SVG" />
   </a>
 </div>
 
